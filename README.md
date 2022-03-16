@@ -9,5 +9,5 @@ hemisphere_image_urls = [
     {"title": "Schiaparelli Hemisphere", "img_url": "..."},
     {"title": "Syrtis Major Hemisphere", "img_url": "..."},
 ]
-```
+
 
