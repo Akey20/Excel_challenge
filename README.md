@@ -13,5 +13,17 @@ hemisphere_image_urls = [
 ]
 ```
 
+## Step 3 - Submission
+
+To submit your work to BootCampSpot, create a new GitHub repository and upload the following:
+
+1. The Jupyter Notebook containing the scraping code used.
+
+2. Screenshots of your final application.
+
+3. Submit the link to your new repository to BootCampSpot.
+
+4. Ensure your repository has regular commits and a thorough README.md file
+
 
 
